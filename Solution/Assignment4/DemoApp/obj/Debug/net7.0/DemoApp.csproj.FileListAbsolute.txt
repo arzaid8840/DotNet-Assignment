@@ -1,0 +1,15 @@
+B:\DAC0323\Roll No 1 and 2\DotNet\Assignments\Assignment4\DemoApp\obj\Debug\net7.0\DemoApp.csproj.AssemblyReference.cache
+B:\DAC0323\Roll No 1 and 2\DotNet\Assignments\Assignment4\DemoApp\obj\Debug\net7.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+B:\DAC0323\Roll No 1 and 2\DotNet\Assignments\Assignment4\DemoApp\obj\Debug\net7.0\DemoApp.AssemblyInfoInputs.cache
+B:\DAC0323\Roll No 1 and 2\DotNet\Assignments\Assignment4\DemoApp\obj\Debug\net7.0\DemoApp.AssemblyInfo.cs
+B:\DAC0323\Roll No 1 and 2\DotNet\Assignments\Assignment4\DemoApp\obj\Debug\net7.0\DemoApp.csproj.CoreCompileInputs.cache
+B:\DAC0323\Roll No 1 and 2\DotNet\Assignments\Assignment4\DemoApp\bin\Debug\net7.0\DemoApp.exe
+B:\DAC0323\Roll No 1 and 2\DotNet\Assignments\Assignment4\DemoApp\bin\Debug\net7.0\DemoApp.deps.json
+B:\DAC0323\Roll No 1 and 2\DotNet\Assignments\Assignment4\DemoApp\bin\Debug\net7.0\DemoApp.runtimeconfig.json
+B:\DAC0323\Roll No 1 and 2\DotNet\Assignments\Assignment4\DemoApp\bin\Debug\net7.0\DemoApp.dll
+B:\DAC0323\Roll No 1 and 2\DotNet\Assignments\Assignment4\DemoApp\bin\Debug\net7.0\DemoApp.pdb
+B:\DAC0323\Roll No 1 and 2\DotNet\Assignments\Assignment4\DemoApp\obj\Debug\net7.0\DemoApp.dll
+B:\DAC0323\Roll No 1 and 2\DotNet\Assignments\Assignment4\DemoApp\obj\Debug\net7.0\refint\DemoApp.dll
+B:\DAC0323\Roll No 1 and 2\DotNet\Assignments\Assignment4\DemoApp\obj\Debug\net7.0\DemoApp.pdb
+B:\DAC0323\Roll No 1 and 2\DotNet\Assignments\Assignment4\DemoApp\obj\Debug\net7.0\DemoApp.genruntimeconfig.cache
+B:\DAC0323\Roll No 1 and 2\DotNet\Assignments\Assignment4\DemoApp\obj\Debug\net7.0\ref\DemoApp.dll
